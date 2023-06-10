@@ -1,0 +1,1 @@
+This directory has the files for the "LangChain for LLM Application Development" course given by deeplearning.ai
